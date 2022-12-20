@@ -1,0 +1,55 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <link rel="stylesheet" href="css/estilos.css">
+</body>
+<h1>QATAR 2022</h1>
+
+<h2>CROACIA</h2>
+
+
+
+
+<div class="bandera" id="ban">
+    <div class="ale1"></div>
+    <div class="ale2"></div>
+    <div class="ale3"></div>
+</div>
+<h3>FOTO</h3>
+<img width="300px" id="imagen" src="https://imagenes.elpais.com/resizer/e-nBphMWvLXGDrUmPzadBo0HaCs=/1960x1470/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7TMOQZF535DXXGCUEJXST4JQAA.jpg" alt="company">
+
+
+<h4>PARTIDOS JUGADOS</h4>
+
+<div  class="estadistica" id="dic">
+    <div class="fin1"></div>
+    <div class="fin2"></div>
+    <div class="fin3"></div>
+
+</div>
+    <h5 class="text-h5">ULTIMO PARTIDO</h5>
+    <div class="Argentina" id="Ar">
+     <div class="doc1"></div>
+     <div class="doc2"></div>
+     <div class="doc3"></div>
+       
+    </div>
+
+    <div class="Croacia" id="Croa">
+        <div class="cro1"></div>
+        <div class="cro2"></div>
+        <div class="cro3"></div>
+
+    </div>
+
+
+
+
+
+
+</html>
